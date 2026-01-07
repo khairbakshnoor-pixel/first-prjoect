@@ -1,2 +1,3 @@
-# first-prjoect
-this is my first reprository
+# first-projoect
+this is my first Repository 
+developer KHAIR BAKHSH 
